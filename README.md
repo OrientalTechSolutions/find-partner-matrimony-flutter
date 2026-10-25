@@ -6,6 +6,12 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Find Partner app screens](app-screens.png)
+
+![Find Partner matrimony app overview](banner.png)
+
 ## What we built
 
 - **Detailed profiles:** photos, age, location, education, profession and an "About me" section
